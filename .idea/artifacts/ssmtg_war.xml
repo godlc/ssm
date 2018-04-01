@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssmtg:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cg.war">
+      <element id="artifact" artifact-name="ssmtg:war exploded" />
+    </root>
+  </artifact>
+</component>
